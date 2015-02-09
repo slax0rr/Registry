@@ -1,7 +1,7 @@
 <?php
-namespace System;
+namespace SlaxWeb\Registry;
 
-class Registry
+class Container
 {
     /**
      * Dependency Injection Container
